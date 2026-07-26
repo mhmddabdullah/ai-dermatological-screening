@@ -2,8 +2,6 @@ AI-Powered Dermatological Disease Detection and Screening from Clinical Images a
 
 Graduation project — a dual-branch deep learning framework for dermatological disease screening, combining an image classification branch with an NLP symptom-classification branch, evaluated under a rigorous, reproducible protocol.
 
-British University in Egypt, Faculty of Informatics and Computer Science (Artificial Intelligence). Author: Mohamed Alhusein Abdalla. Supervised by Dr. Gehad Ismail Sayed.
-
 Overview:
 Skin diseases affect over a billion people globally, and delayed or inaccurate diagnosis carries serious consequences — from missed early-stage melanoma to progressive inflammatory disease. This project builds and evaluates a dual-branch AI framework — image classification and NLP symptom classification — designed to support faster, more accessible dermatological screening.
 
